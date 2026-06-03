@@ -6,10 +6,10 @@ This repository contains my learning notes and blogs on Spring Security and Spri
 
 - Request Flow in Spring Security
 - Authentication vs Authorization
-- JWT Authentication
   
 # Spring Security Blogs
 
 ## Available Blogs
 
 - [What Happens Before Your API Receives a Request in Spring Security?](./blogs/request-flow.md)
+-  [Authentication vs Authorization: Understanding the Difference in Spring Security](./blogs/authentication-vs-authorization.md)
