@@ -142,3 +142,10 @@ A simple way to remember:
 Once I understood this difference, many Spring Security concepts became much easier to understand.
 
 I hope this explanation helps you too. 🚀
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sonali-shahi-2a582a2a8/
+- DEV Community: https://dev.to/sonalishahi
