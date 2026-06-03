@@ -131,3 +131,10 @@ It acts as a protective layer between users and your business logic, making sure
 If you're learning Spring Boot and Spring Security, I hope this article helped you understand what's happening behind the scenes.
 
 Feel free to connect with me and share your thoughts or suggestions for future Spring Security topics.
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sonali-shahi-2a582a2a8/
+- DEV Community: https://dev.to/sonalishahi
