@@ -10,9 +10,10 @@ This repository contains my learning notes, blogs, cheatsheets, and projects rel
 
 * [Security Filter Chain Explained: The Heart of Spring Security](./blogs/security-filter-chain-explained.md)
 
+
 ## 📌 Cheatsheets
 
-* Spring Security Cheatsheet *(Coming Soon)*
+- [Spring Security Cheatsheet](./cheatsheets/spring-security-cheatsheet.md)
 * Spring Boot Cheatsheet *(Coming Soon)*
 
 ## 🎯 Learning Goals
