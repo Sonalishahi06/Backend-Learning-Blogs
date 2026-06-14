@@ -1,7 +1,5 @@
 # Why Do We Use PasswordEncoder in Spring Security?
 
-#java #springboot #springsecurity #backend
-
 When I first started learning Spring Security, I had a simple question:
 
 > "If Spring Security can authenticate users using usernames and passwords, why do we need a PasswordEncoder?"
@@ -134,3 +132,10 @@ As developers, we should never store passwords in plain text.
 Instead, we should always encode them before saving them to the database.
 
 Because protecting user data starts with protecting their passwords. 🔐
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sonali-shahi-2a582a2a8/
+- DEV Community: https://dev.to/sonalishahi
