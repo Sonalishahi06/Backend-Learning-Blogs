@@ -10,6 +10,8 @@ This repository contains my learning notes, blogs, cheatsheets, and projects rel
 
 * [Security Filter Chain Explained: The Heart of Spring Security](./blogs/security-filter-chain-explained.md)
 
+* [Why Do We Use PasswordEncoder in Spring Security?](./blogs/password-encoder.md)
+
 
 ## 📌 Cheatsheets
 
