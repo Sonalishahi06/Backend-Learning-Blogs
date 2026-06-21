@@ -16,7 +16,6 @@ This repository contains my learning notes, blogs, cheatsheets, and projects rel
 ## 📌 Cheatsheets
 
 - [Spring Security Cheatsheet](./cheatsheets/spring-security-cheatsheet.md)
-* Spring Boot Cheatsheet *(Coming Soon)*
 
 ## 🎯 Learning Goals
 
